@@ -1,0 +1,28 @@
+ ody{
+	background-color:rgb(255, 80, 80);
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+	border-radius: 0;
+	background-color: yellow;
+	border: 0;
+	
+}
+
+#logo-img {
+width: 150px;
+height: 150px;
+margin: 10px 15px 10px 0px;
+background: url('../image/logo.gif') no-repeat;
+background-size: 100% 100% ;}
+
+.navbar-brand h1{
+	text-transform: uppercase;
+text-shadow: 1px 1px 1px;
+line-height: 2;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}

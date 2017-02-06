@@ -7,7 +7,7 @@ padding: 0px;
 
 
 div  {
-	
+	height: 100px;
 	text-align: center;
 	border-color: black;
 	border: 2px solid black;
@@ -43,7 +43,7 @@ div > p:nth-child(1) {
 }
 
 div > p:nth-child(2){
-
+padding-top: 40px;
 position: relative;
 top: 10px
 
