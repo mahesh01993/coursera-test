@@ -1,0 +1,42 @@
+#myUl
+{
+	text-align: center;
+	background-color: #ffffcc;
+	font-size: 1em;
+}
+
+#myUl a:hover{
+background-color: #ffff80;
+}
+
+section {
+	height: 1000px;
+	background-color: #ffff80;
+	overflow: auto;
+	box-shadow: 5px 5px 15px 15px #ffffcc;
+	margin: 10px;
+	margin-top: 20px;
+	margin-bottom: 150px;
+
+}
+
+
+section p:nth-child(1) {
+	margin: 5px;
+	font-size: 2em;
+}
+
+section p:nth-child(2) {
+	color: #bbbbbb;
+	margin: 5px;
+	font-size: 1em;
+}
+
+.navbar-brand{
+	margin-top: 20px;
+	font-size: 3em;
+}
+
+.navbar-header{
+	height: 100px;
+}
